@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kganya\\source\\repos\\Assignment23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58CE08B1-D39C-4021-87CB-2813876CB1DD}|Assignment23\\Assignment23.vcxproj|C:\\Users\\Kganya\\source\\repos\\Assignment23\\Assignment23\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58CE08B1-D39C-4021-87CB-2813876CB1DD}|Assignment23\\Assignment23.vcxproj|solutionrelative:Assignment23\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CE08B1-D39C-4021-87CB-2813876CB1DD}|Assignment23\\Assignment23.vcxproj|C:\\Users\\Kganya\\source\\repos\\Assignment23\\Assignment23\\IsValidNumber.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58CE08B1-D39C-4021-87CB-2813876CB1DD}|Assignment23\\Assignment23.vcxproj|solutionrelative:Assignment23\\IsValidNumber.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CE08B1-D39C-4021-87CB-2813876CB1DD}|Assignment23\\Assignment23.vcxproj|C:\\Users\\Kganya\\source\\repos\\Assignment23\\Assignment23\\IsValidNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58CE08B1-D39C-4021-87CB-2813876CB1DD}|Assignment23\\Assignment23.vcxproj|solutionrelative:Assignment23\\IsValidNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IsValidNumber.cpp",
+              "DocumentMoniker": "C:\\Users\\Kganya\\source\\repos\\Assignment23\\Assignment23\\IsValidNumber.cpp",
+              "RelativeDocumentMoniker": "Assignment23\\IsValidNumber.cpp",
+              "ToolTip": "C:\\Users\\Kganya\\source\\repos\\Assignment23\\Assignment23\\IsValidNumber.cpp",
+              "RelativeToolTip": "Assignment23\\IsValidNumber.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T18:20:03.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IsValidNumber.h",
+              "DocumentMoniker": "C:\\Users\\Kganya\\source\\repos\\Assignment23\\Assignment23\\IsValidNumber.h",
+              "RelativeDocumentMoniker": "Assignment23\\IsValidNumber.h",
+              "ToolTip": "C:\\Users\\Kganya\\source\\repos\\Assignment23\\Assignment23\\IsValidNumber.h",
+              "RelativeToolTip": "Assignment23\\IsValidNumber.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-23T18:18:19.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Kganya\\source\\repos\\Assignment23\\Assignment23\\main.cpp",
+              "RelativeDocumentMoniker": "Assignment23\\main.cpp",
+              "ToolTip": "C:\\Users\\Kganya\\source\\repos\\Assignment23\\Assignment23\\main.cpp",
+              "RelativeToolTip": "Assignment23\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T18:17:44.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
