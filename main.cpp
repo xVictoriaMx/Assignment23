@@ -3,6 +3,7 @@
 #include "IsValidNumber.h"
 
 using namespace std;
+using namespace ValidNumber;
 
 int main() {
     string customerNumber;

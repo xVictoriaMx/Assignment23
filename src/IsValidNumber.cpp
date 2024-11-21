@@ -1,7 +1,10 @@
 #include <iostream>
 #include <string>
 
-bool isValidCustomerNumber(const std::string& customerNumber) {
+using namespace std;
+
+namespace ValidNumber{
+bool isValidCustomerNumber(const string& customerNumber) {
     if (customerNumber.length() != 6) {
         return false;
     }
@@ -23,4 +26,5 @@ bool isValidCustomerNumber(const std::string& customerNumber) {
     }
 
     return true;
+}
 }
